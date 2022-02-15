@@ -8,4 +8,4 @@
 
 >>5. Create an encrypted zip archive of the **personal** directory. You don't want just anyone to access your personal files right?<<
 
->>6. How would a test a zip archive for corrupt files before extracting?<<
+>>6. How would you test a zip archive for corrupt files before extracting?<<

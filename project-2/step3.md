@@ -20,4 +20,10 @@
 
 >>5. Check the default route information of your system<<
 
->>6. Ping `www.google.com` from your system to see if you can access google servers from your terminal. Make sure you define the number of packets to send to the google<<
+>>6. Ping `www.google.com` from your system to see if you can access google servers from your terminal. Make sure you define the number of packets to send to google servers<<
+
+>>7. Look up DNS information for `google.com`
+
+>>8. Find the IP address to  www.google.com 
+
+>>9. Check the hostname  of  your server

@@ -18,9 +18,14 @@
           "text": "step3.md"
         },
         {
-          "title": "Step 3",
+          "title": "Step 4",
           "text": "step4.md",
           "background": "step4.sh"
+        },
+        {
+          "title": "Step 5",
+          "text": "step5.md",
+          "background": "step5.sh"
         }
       ],
       "intro": {
